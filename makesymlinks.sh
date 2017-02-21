@@ -8,7 +8,7 @@
 
 dir=~/dotfiles                    # dotfiles directory
 olddir=~/dotfiles_old             # old dotfiles backup directory
-files="bashrc.old"    # list of files/folders to symlink in homedir
+files="bashrc Xresources archey3.cfg"    # list of files/folders to symlink in homedir
 
 ##########
 
@@ -28,4 +28,15 @@ for file in $files; do
     mv ~/.$file ~/dotfiles_old/
     echo "Creating symlink to $file in home directory."
     ln -s $dir/$file ~/.$file
+
+#move i3config to ~/.i3/config if it exists
+echo "Checking for i3 config file"
+if [ -f $dir/config ]
+    then 
+      echo "i3 config exists, creating symlink"
+      ln -s $dir/config ~/.i3/config
+    else
+      echo "i3 config does not exist - skipping"
+fi
+
 done
