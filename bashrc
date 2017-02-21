@@ -2,22 +2,25 @@
 # ~/.bashrc
 #
 
-#start archey
+# Start archey
 command archey3
 
 # If not running interactively, don't do anything
 [[ $- != *i* ]] && return
 
+# Alias
 alias ls='ls --color=auto'
+
+# Configure prompt
 PS1='[\u@\h \W]\$ '
 
-#add ~/bin to path 
+# Add ~/bin to path 
 export PATH="$HOME/bin:$PATH"
 
-#run wal
+# Run wal
 (wal -r &)
 
-#run powerline 
+# Run powerline 
 powerline-daemon -q
 POWERLINE_BASH_CONTINUATION=1
 POWERLINE_BASH_SELECT=1
