@@ -39,4 +39,14 @@ if [ -f $dir/config ]
       echo "i3 config does not exist - skipping"
 fi
 
+#move xinitrc to ~/etc/X11/xinit/xinitrc if it exists
+echo "Checking for xinitrc"
+if [ -f $dir/xinitrc ]
+    then 
+      echo "xinitrc config exists, creating symlink"
+      ln -s $dir/xinitrc /etc/X11/xinit/xinitrc
+    else
+      echo "xinitrc does not exist - skipping"
+fi
+
 done
