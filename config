@@ -176,12 +176,18 @@ client.unfocused        $inactive-bg-color $inactive-bg-color $inactive-text-col
 client.focused_inactive $inactive-bg-color $inactive-bg-color $inactive-text-color #00ff00
 client.urgent           $urgent-bg-color    $urgent-bg-color   $text-color          #00ff00
 
+# Hide container borders adjacent to the screen edges 
 hide_edge_borders both
+
+# Configure gaps
 gaps inner 25
 gaps outer 25
+
+# Disable borders
 for_window [class="^.*"] border pixel 0
 
 
+# Disable i3bar
 # Start i3bar to display a workspace bar (plus the system information i3status
 # finds out, if available)
 #bar {
@@ -206,14 +212,22 @@ for_window [class="^.*"] border pixel 0
 # Please remove the following exec line:
 #######################################################################
 
+# Bind Mod+d to run rofi instead of dmenu
 bindsym Mod4+d exec rofi -show run -lines 3 -eh 2 -width 100 -padding 800 -font "System San Francisco Display 18"
 
+# Add support to move workspace to other monitor
 bindsym Mod4+x move workspace to output right
 
+# Add support to move container to other monitor
 bindsym Mod4+Shift+greater move container to output right
 
+# Set wallpaper
 exec --no-startup-id nitrogen --restore
+
+# Enable lock screen
 exec --no-startup-id sleep 3 && xfce4-power-manager
+
+# Launch polybar
 exec_always --no-startup-id $HOME/.config/polybar/launch.sh
 
 
