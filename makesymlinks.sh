@@ -44,7 +44,7 @@ echo "Checking for xinitrc"
 if [ -f $dir/xinitrc ]
     then 
       echo "xinitrc config exists, creating symlink"
-      ln -s $dir/xinitrc /etc/X11/xinit/xinitrc
+      sudo ln -s $dir/xinitrc /etc/X11/xinit/xinitrc
     else
       echo "xinitrc does not exist - skipping"
 fi
