@@ -23,3 +23,6 @@ URxvt*scrollTtyKeypress: true
 /* Set up secondary scrolling (scrolling in man, vim, etc)*/
 URxvt.secondaryScreen: 1
 URxvt.secondaryScroll: 0
+
+/* Disable double buffer for xtf*/
+URxvt*buffered: false
