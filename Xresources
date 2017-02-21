@@ -1,21 +1,25 @@
 /* Set Fonts*/
-/urxvt.font:         xft:Hack-Regular:pixelsize=14,xft:Symbola
 urxvt*font:          xft:Hack-Regular:pixelsize=14,xft:Inconsolata\ for\ Powerline:size=12
 urxvt.boldFont:     xft:Hack-Bold:pixelsize=14:weight=bold,xft:Symbola
 urxvt.italicFont:   xft:Hack-RegularOblique:pixelsize=14:slant=italic,xft:Symbola
+
+/* Disable scrollbar*/
 URxvt.scrollBar: false
+
+/* Configure transparency*/
 urxvt*depth: 32
 URxvt.transparent:   true
-URxvt.shading:       20
+URxvt.shading:       25
 
-! do not scroll with output
+/* Do not scroll with new output*/
 URxvt*scrollTtyOutput: false
 
-! scroll in relation to buffer (with mouse scroll or Shift+Page Up)
+/* Scroll in relation to buffer (with mouse scroll or Shift+Page Up)*/
 URxvt*scrollWithBuffer: true
 
-! scroll back to the bottom on keypress
+/* Scroll back to the bottom on keypress*/
 URxvt*scrollTtyKeypress: true
 
+/* Set up secondary scrolling (scrolling in man, vim, etc)*/
 URxvt.secondaryScreen: 1
 URxvt.secondaryScroll: 0
