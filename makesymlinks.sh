@@ -8,7 +8,7 @@
 
 dir=~/dotfiles                    # dotfiles directory
 olddir=~/dotfiles_old             # old dotfiles backup directory
-files="bashrc Xresources archey3.cfg"    # list of files/folders to symlink in homedir
+files="bashrc Xresources archey3.cfg zshrc"    # list of files/folders to symlink in homedir
 
 ##########
 
