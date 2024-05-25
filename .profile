@@ -1,0 +1,10 @@
+export MOZ_ENABLE_WAYLAND=1
+export MOZ_WAYLAND_USE_VAAPI=1
+export MOZ_DBUS_REMOTE=1
+export GDK_BACKEND=wayland
+export XDG_CURRENT_DESKTOP=hyprland
+export XDG_SESSION_DESKTOP=hyprland
+export XDG_SESSION_TYPE=wayland
+export EDITOR=/usr/bin/micro
+export TERM=xterm-256color
+export GTK2_RC_FILES=$HOME/.gtkrc-2.0

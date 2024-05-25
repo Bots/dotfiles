@@ -29,24 +29,4 @@ for file in $files; do
     echo "Creating symlink to $file in home directory."
     ln -s $dir/$file ~/.$file
 
-#move i3config to ~/.i3/config if it exists
-echo "Checking for i3 config file"
-if [ -f $dir/config ]
-    then 
-      echo "i3 config exists, creating symlink"
-      ln -s $dir/config ~/.i3/config
-    else
-      echo "i3 config does not exist - skipping"
-fi
-
-#move xinitrc to ~/etc/X11/xinit/xinitrc if it exists
-echo "Checking for xinitrc"
-if [ -f $dir/xinitrc ]
-    then 
-      echo "xinitrc config exists, creating symlink"
-      sudo ln -s $dir/xinitrc /etc/X11/xinit/xinitrc
-    else
-      echo "xinitrc does not exist - skipping"
-fi
-
 done

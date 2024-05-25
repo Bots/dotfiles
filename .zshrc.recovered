@@ -1,0 +1,367 @@
+integer 10 readonly '!'=0
+integer 10 readonly '#'=0
+integer 10 readonly '$'=123530
+array readonly '*'=(  )
+readonly -=0569BJNPXZikms
+0=/bin/zsh
+integer 10 readonly '?'=0
+array readonly @=(  )
+integer 10 readonly ARGC=0
+BEMENU_BACKEND=wayland
+BUFFER=''
+tied cdpath CDPATH=''
+COLORTERM=truecolor
+integer 10 COLUMNS=168
+CONDA_DEFAULT_ENV=base
+CONDA_EXE=/home/bots/anaconda3/bin/conda
+CONDA_PREFIX=/home/bots/anaconda3
+CONDA_PROMPT_MODIFIER='(base) '
+CONDA_PYTHON_EXE=/home/bots/anaconda3/bin/python
+CONDA_SHLVL=1
+CPUTYPE=x86_64
+CURSOR=''
+DBUS_SESSION_BUS_ADDRESS='unix:path=/run/user/1000/bus'
+DEBUGINFOD_URLS='https://debuginfod.archlinux.org '
+DESKTOP_SESSION=garuda-hyprland
+DISPLAY=:1
+ECORE_EVAS_ENGINE=wayland-egl
+EDITOR=nano
+integer 10 EGID=1000
+ELM_ENGINE=wayland_egl
+float readonly EPOCHREALTIME
+integer readonly EPOCHSECONDS
+integer 10 EUID=1000
+tied fignore FIGNORE=''
+tied fpath FPATH=/usr/lib/kitty/shell-integration/zsh/completions:/usr/local/share/zsh/site-functions:/usr/share/zsh/site-functions:/usr/share/zsh/functions/Calendar:/usr/share/zsh/functions/Chpwd:/usr/share/zsh/functions/Completion:/usr/share/zsh/functions/Completion/Base:/usr/share/zsh/functions/Completion/Linux:/usr/share/zsh/functions/Completion/Unix:/usr/share/zsh/functions/Completion/X:/usr/share/zsh/functions/Completion/Zsh:/usr/share/zsh/functions/Exceptions:/usr/share/zsh/functions/MIME:/usr/share/zsh/functions/Math:/usr/share/zsh/functions/Misc:/usr/share/zsh/functions/Newuser:/usr/share/zsh/functions/Prompts:/usr/share/zsh/functions/TCP:/usr/share/zsh/functions/VCS_Info:/usr/share/zsh/functions/VCS_Info/Backends:/usr/share/zsh/functions/Zftp:/usr/share/zsh/functions/Zle
+integer 10 FUNCNEST=500
+FZF_DEFAULT_OPTS=' --color=bg+:-1,bg:#1e1e2e,spinner:#f5e0dc,hl:#f38ba8 --color=fg:#cdd6f4,header:#f38ba8,info:#cba6f7,pointer:#f5e0dc --color=marker:#f5e0dc,fg+:#a6e3a1,prompt:#cba6f7,hl+:#f38ba8'
+GDK_BACKEND=wayland
+integer 10 GID=1000
+GSETTINGS_SCHEMA_DIR=/home/bots/anaconda3/share/glib-2.0/schemas
+GSETTINGS_SCHEMA_DIR_CONDA_BACKUP=''
+GTK2_RC_FILES=/home/bots/.gtkrc-2.0
+HG=/usr/bin/hg
+HISTCHARS='!^#'
+integer 10 readonly HISTCMD=1165
+HISTFILE=/home/bots/.zhistory
+HISTORY_SUBSTRING_SEARCH_ENSURE_UNIQUE=''
+HISTORY_SUBSTRING_SEARCH_FUZZY=''
+HISTORY_SUBSTRING_SEARCH_GLOBBING_FLAGS=i
+HISTORY_SUBSTRING_SEARCH_HIGHLIGHT_FOUND='bg=magenta,fg=white,bold'
+HISTORY_SUBSTRING_SEARCH_HIGHLIGHT_NOT_FOUND='bg=red,fg=white,bold'
+HISTORY_SUBSTRING_SEARCH_PREFIXED=''
+integer 10 HISTSIZE=50000
+HOME=/home/bots
+HOST=botbox
+HYPRLAND_CMD=Hyprland
+HYPRLAND_INSTANCE_SIGNATURE=4ffcdc41ff8233a92f02c633475ac3472b0998df_1711124695
+IFS=$' \t\n\C-@'
+KEYBOARD_HACK=''
+integer KEYTIMEOUT=40
+KITTY_INSTALLATION_DIR=/usr/lib/kitty
+KITTY_PID=123294
+KITTY_PUBLIC_KEY='1:mW?ZVTJ($7EuHWJPMwbsH$hnC>tPgGk<iV<5*if+'
+KITTY_WINDOW_ID=1
+LANG=en_US.UTF-8
+LC_ADDRESS=en_US.UTF-8
+LC_IDENTIFICATION=en_US.UTF-8
+LC_MEASUREMENT=en_US.UTF-8
+LC_MONETARY=en_US.UTF-8
+LC_NAME=en_US.UTF-8
+LC_NUMERIC=en_US.UTF-8
+LC_PAPER=en_US.UTF-8
+LC_TELEPHONE=en_US.UTF-8
+LC_TIME=en_US.UTF-8
+LIBVA_DRIVER_NAME=nvidia
+integer 10 readonly LINENO=175
+integer 10 LINES=43
+integer LISTMAX=100
+LOGNAME=bots
+MACHTYPE=x86_64
+MAIL=/var/spool/mail/bots
+integer MAILCHECK=60
+tied mailpath MAILPATH=''
+tied manpath MANPATH=''
+MATCH=0569BJNPXZikm
+MBEGIN=1
+MCFLY_FUZZY=true
+MCFLY_HISTFILE=/home/bots/.zhistory
+MCFLY_HISTORY=/tmp/mcfly.r9CAKUtR
+MCFLY_HISTORY_FORMAT=zsh
+MCFLY_INTERFACE_VIEW=BOTTOM
+MCFLY_PATH=/usr/bin/mcfly
+MCFLY_RESULTS=20
+MCFLY_RESULTS_SORT=LAST_RUN
+MCFLY_SESSION_ID=yyLhbYdbr0EX8gQalT2OFUUL
+MEND=13
+MENUPROMPT='%SScrolling active: current selection at %p%s'
+MENUSELECT=0
+tied module_path MODULE_PATH=/usr/lib/zsh/5.9
+MOTD_SHOWN=pam
+MOZ_DBUS_REMOTE=1
+MOZ_ENABLE_WAYLAND=1
+MOZ_WAYLAND_USE_VAAPI=1
+NO_AT_BRIDGE=1
+NULLCMD=cat
+NVM_BIN=/home/bots/.nvm/versions/node/v20.11.1/bin
+NVM_CD_FLAGS=-q
+NVM_DIR=/home/bots/.nvm
+NVM_INC=/home/bots/.nvm/versions/node/v20.11.1/include/node
+OLDPWD=/home/bots/Projects/forward-flow/forward-flow-voice-golang
+OPTARG=''
+integer 10 OPTIND=1
+OSTYPE=linux-gnu
+PAM_KWALLET5_LOGIN=/run/user/1000/kwallet5.socket
+tied path PATH=/home/bots/anaconda3/bin:/home/bots/anaconda3/condabin:/home/bots/.nvm/versions/node/v20.11.1/bin:/home/bots/.local/bin:/usr/local/sbin:/usr/local/bin:/usr/bin:/var/lib/flatpak/exports/bin:/usr/bin/site_perl:/usr/bin/vendor_perl:/usr/bin/core_perl
+integer 10 readonly PPID=123294
+PROMPT='(base) $(/usr/bin/starship prompt --terminal-width="$COLUMNS" --keymap="${KEYMAP:-}" --status="$STARSHIP_CMD_STATUS" --pipestatus="${STARSHIP_PIPE_STATUS[*]}" --cmd-duration="${STARSHIP_DURATION:-}" --jobs="$STARSHIP_JOBS_COUNT")'
+PROMPT2=$'%{\C-[[90m%}∙%{\C-[[0m%} '
+PROMPT3='?# '
+PROMPT4='+%N:%i> '
+PS1='(base) $(/usr/bin/starship prompt --terminal-width="$COLUMNS" --keymap="${KEYMAP:-}" --status="$STARSHIP_CMD_STATUS" --pipestatus="${STARSHIP_PIPE_STATUS[*]}" --cmd-duration="${STARSHIP_DURATION:-}" --jobs="$STARSHIP_JOBS_COUNT")'
+PS2=$'%{\C-[[90m%}∙%{\C-[[0m%} '
+PS3='?# '
+PS4='+%N:%i> '
+tied psvar PSVAR=''
+PWD=/home/bots
+QT_AUTO_SCREEN_SCALE_FACTOR=1
+QT_QPA_PLATFORM=wayland
+QT_QPA_PLATFORMTHEME=qt5ct
+QT_WAYLAND_DISABLE_WINDOWDECORATION=1
+integer 10 RANDOM=24287
+READNULLCMD=more
+RPROMPT='$(/usr/bin/starship prompt --right --terminal-width="$COLUMNS" --keymap="${KEYMAP:-}" --status="$STARSHIP_CMD_STATUS" --pipestatus="${STARSHIP_PIPE_STATUS[*]}" --cmd-duration="${STARSHIP_DURATION:-}" --jobs="$STARSHIP_JOBS_COUNT")'
+integer 10 SAVEHIST=10000
+SDL_VIDEODRIVER=wayland
+integer 10 SECONDS=134976
+SHELL=/bin/zsh
+integer 10 SHLVL=1
+SPROMPT='zsh: correct '\''%R'\'' to '\''%r'\'' [nyae]? '
+integer STARSHIP_CAPTURED_TIME=1711260436376
+STARSHIP_CMD_STATUS=0
+integer STARSHIP_DURATION=800
+STARSHIP_JOBS_COUNT=0
+array STARSHIP_PIPE_STATUS=( 0 )
+STARSHIP_SESSION_KEY=1563426223797524
+STARSHIP_SHELL=zsh
+STARSHIP_START_TIME=1711260436376
+TERM=xterm-kitty
+TERMINFO=/usr/lib/kitty/terminfo
+TIMEFMT='%J  %U user %S system %P cpu %*E total'
+TMPPREFIX=/tmp/zsh
+integer 10 TRY_BLOCK_ERROR=-1
+integer 10 TRY_BLOCK_INTERRUPT=-1
+TTY=/dev/pts/2
+integer 10 readonly TTYIDLE=1
+integer 10 UID=1000
+USER=bots
+USERNAME=bots
+VENDOR=pc
+VIRTUAL_ENV_DISABLE_PROMPT=1
+undefined WATCH
+WAYLAND_DISPLAY=wayland-1
+WLR_DRM_NO_ATOMIC=1
+WLR_NO_HARDWARE_CURSORS=1
+WORDCHARS='*?_-.[]~=/&;!#$%^(){}<>'
+XCURSOR_SIZE=20
+XCURSOR_THEME=Bibata-Modern-Ice
+XDG_BACKEND=wayland
+XDG_CURRENT_DESKTOP=sway
+XDG_DATA_DIRS=/home/bots/.local/share/flatpak/exports/share:/var/lib/flatpak/exports/share:/usr/local/share:/usr/share
+XDG_RUNTIME_DIR=/run/user/1000
+XDG_SEAT=seat0
+XDG_SEAT_PATH=/org/freedesktop/DisplayManager/Seat0
+XDG_SESSION_CLASS=user
+XDG_SESSION_DESKTOP=Hyprland
+XDG_SESSION_ID=2
+XDG_SESSION_PATH=/org/freedesktop/DisplayManager/Session1
+XDG_SESSION_TYPE=wayland
+XDG_VTNR=1
+ZLE_LINE_ABORTED=''
+ZLS_COLORS=''
+ZSH_ARGZERO=/bin/zsh
+array ZSH_AUTOSUGGEST_ACCEPT_WIDGETS=( forward-char end-of-line vi-forward-char vi-end-of-line vi-add-eol )
+array ZSH_AUTOSUGGEST_CLEAR_WIDGETS=( history-search-forward history-search-backward history-beginning-search-forward history-beginning-search-backward history-substring-search-up history-substring-search-down up-line-or-beginning-search down-line-or-beginning-search up-line-or-history down-line-or-history accept-line copy-earlier-word )
+ZSH_AUTOSUGGEST_COMPLETIONS_PTY_NAME=zsh_autosuggest_completion_pty
+array ZSH_AUTOSUGGEST_EXECUTE_WIDGETS=(  )
+ZSH_AUTOSUGGEST_HIGHLIGHT_STYLE='fg=8'
+array ZSH_AUTOSUGGEST_IGNORE_WIDGETS=( 'orig-*' beep run-help set-local-history which-command yank yank-pop 'zle-*' )
+ZSH_AUTOSUGGEST_ORIGINAL_WIDGET_PREFIX=autosuggest-orig-
+array ZSH_AUTOSUGGEST_PARTIAL_ACCEPT_WIDGETS=( forward-word emacs-forward-word vi-forward-word vi-forward-word-end vi-forward-blank-word vi-forward-blank-word-end vi-find-next-char vi-find-next-char-skip )
+array ZSH_AUTOSUGGEST_STRATEGY=( history )
+ZSH_AUTOSUGGEST_USE_ASYNC=''
+readonly tied zsh_eval_context ZSH_EVAL_CONTEXT=toplevel
+array ZSH_HIGHLIGHT_DIRS_BLACKLIST=(  )
+array ZSH_HIGHLIGHT_HIGHLIGHTERS=( main )
+association ZSH_HIGHLIGHT_PATTERNS=( )
+association ZSH_HIGHLIGHT_REGEXP=( )
+ZSH_HIGHLIGHT_REVISION=db085e4661f6aafd24e5acb5b2e17e4dd5dddf3e
+association ZSH_HIGHLIGHT_STYLES=( [arg0]='fg=green' [assign]=none [autodirectory]='fg=green,underline' [back-dollar-quoted-argument]='fg=cyan' [back-double-quoted-argument]='fg=cyan' [back-quoted-argument]=none [back-quoted-argument-delimiter]='fg=magenta' [bracket-error]='fg=red,bold' [bracket-level-1]='fg=blue,bold' [bracket-level-2]='fg=green,bold' [bracket-level-3]='fg=magenta,bold' [bracket-level-4]='fg=yellow,bold' [bracket-level-5]='fg=cyan,bold' [command-substitution]=none [command-substitution-delimiter]='fg=magenta' [commandseparator]=none [comment]='fg=black,bold' [cursor]=standout [cursor-matchingbracket]=standout [default]=none [dollar-double-quoted-argument]='fg=cyan' [dollar-quoted-argument]='fg=yellow' [double-hyphen-option]=none [double-quoted-argument]='fg=yellow' [global-alias]='fg=cyan' [globbing]='fg=blue' [history-expansion]='fg=blue' [line]='' [named-fd]=none [numeric-fd]=none [path]=underline [path_pathseparator]='' [path_prefix_pathseparator]='' [precommand]='fg=green,underline' [process-substitution]=none [process-substitution-delimiter]='fg=magenta' [rc-quote]='fg=cyan' [redirection]='fg=yellow' [reserved-word]='fg=yellow' [root]=standout [single-hyphen-option]=none [single-quoted-argument]='fg=yellow' [suffix-alias]='fg=green,underline' [unknown-token]='fg=red,bold' )
+ZSH_HIGHLIGHT_VERSION=0.8.0
+ZSH_NAME=zsh
+ZSH_PATCHLEVEL=zsh-5.9-0-g73d3173
+integer 10 readonly ZSH_SUBSHELL=0
+ZSH_VERSION=5.9
+_=declare
+_CE_CONDA=''
+_CE_M=''
+_JAVA_AWT_WM_NONREPARENTING=1
+_ZSH_AUTOSUGGEST_ASYNC_FD=12
+association _ZSH_AUTOSUGGEST_BIND_COUNTS=( [accept-and-hold]=1 [accept-and-infer-next-history]=1 [accept-and-menu-complete]=1 [accept-line]=1 [accept-line-and-down-history]=1 [accept-search]=1 [argument-base]=1 [auto-suffix-remove]=1 [auto-suffix-retain]=1 [autosuggest-capture-completion]=1 [backward-char]=1 [backward-delete-char]=1 [backward-delete-word]=1 [backward-kill-line]=1 [backward-kill-word]=1 [backward-word]=1 [beginning-of-buffer-or-history]=1 [beginning-of-history]=1 [beginning-of-line]=1 [beginning-of-line-hist]=1 [bracketed-paste]=1 [capitalize-word]=1 [clear-screen]=1 [complete-word]=1 [copy-prev-shell-word]=1 [copy-prev-word]=1 [copy-region-as-kill]=1 [deactivate-region]=1 [delete-char]=1 [delete-char-or-list]=1 [delete-word]=1 [describe-key-briefly]=1 [digit-argument]=1 [down-case-word]=1 [down-history]=1 [down-line]=1 [down-line-or-beginning-search]=1 [down-line-or-history]=1 [down-line-or-search]=1 [emacs-backward-word]=1 [emacs-forward-word]=1 [end-of-buffer-or-history]=1 [end-of-history]=1 [end-of-line]=1 [end-of-line-hist]=1 [end-of-list]=1 [exchange-point-and-mark]=1 [execute-last-named-cmd]=1 [execute-named-cmd]=1 [expand-cmd-path]=1 [expand-history]=1 [expand-or-complete]=1 [expand-or-complete-prefix]=1 [expand-word]=1 [forward-char]=1 [forward-word]=1 [fzf-cd-widget]=1 [fzf-completion]=1 [fzf-file-widget]=1 [fzf-history-widget]=1 [get-line]=1 [gosmacs-transpose-chars]=1 [history-beginning-search-backward]=1 [history-beginning-search-forward]=1 [history-incremental-pattern-search-backward]=1 [history-incremental-pattern-search-forward]=1 [history-incremental-search-backward]=1 [history-incremental-search-forward]=1 [history-search-backward]=1 [history-search-forward]=1 [history-substring-search-down]=1 [history-substring-search-up]=1 [infer-next-history]=1 [insert-last-word]=1 [kill-buffer]=1 [kill-line]=1 [kill-region]=1 [kill-whole-line]=1 [kill-word]=1 [list-choices]=1 [list-expand]=1 [magic-space]=1 [mcfly-history-widget]=1 [menu-complete]=1 [menu-expand-or-complete]=1 [menu-select]=1 [neg-argument]=1 [overwrite-mode]=1 [pound-insert]=1 [push-input]=1 [push-line]=1 [push-line-or-edit]=1 [put-replace-selection]=1 [quote-line]=1 [quote-region]=1 [quoted-insert]=1 [read-command]=1 [recursive-edit]=1 [redisplay]=1 [redo]=1 [reset-prompt]=1 [reverse-menu-complete]=1 [select-a-blank-word]=1 [select-a-shell-word]=1 [select-a-word]=1 [select-in-blank-word]=1 [select-in-shell-word]=1 [select-in-word]=1 [self-insert]=1 [self-insert-unmeta]=1 [send-break]=1 [set-mark-command]=1 [spell-word]=1 [split-undo]=1 [transpose-chars]=1 [transpose-words]=1 [undefined-key]=1 [undo]=1 [universal-argument]=1 [up-case-word]=1 [up-history]=1 [up-line]=1 [up-line-or-beginning-search]=1 [up-line-or-history]=1 [up-line-or-search]=1 [vi-add-eol]=1 [vi-add-next]=1 [vi-backward-blank-word]=1 [vi-backward-blank-word-end]=1 [vi-backward-char]=1 [vi-backward-delete-char]=1 [vi-backward-kill-word]=1 [vi-backward-word]=1 [vi-backward-word-end]=1 [vi-beginning-of-line]=1 [vi-caps-lock-panic]=1 [vi-change]=1 [vi-change-eol]=1 [vi-change-whole-line]=1 [vi-cmd-mode]=1 [vi-delete]=1 [vi-delete-char]=1 [vi-digit-or-beginning-of-line]=1 [vi-down-case]=1 [vi-down-line-or-history]=1 [vi-end-of-line]=1 [vi-fetch-history]=1 [vi-find-next-char]=1 [vi-find-next-char-skip]=1 [vi-find-prev-char]=1 [vi-find-prev-char-skip]=1 [vi-first-non-blank]=1 [vi-forward-blank-word]=1 [vi-forward-blank-word-end]=1 [vi-forward-char]=1 [vi-forward-word]=1 [vi-forward-word-end]=1 [vi-goto-column]=1 [vi-goto-mark]=1 [vi-goto-mark-line]=1 [vi-history-search-backward]=1 [vi-history-search-forward]=1 [vi-indent]=1 [vi-insert]=1 [vi-insert-bol]=1 [vi-join]=1 [vi-kill-eol]=1 [vi-kill-line]=1 [vi-match-bracket]=1 [vi-open-line-above]=1 [vi-open-line-below]=1 [vi-oper-swap-case]=1 [vi-pound-insert]=1 [vi-put-after]=1 [vi-put-before]=1 [vi-quoted-insert]=1 [vi-repeat-change]=1 [vi-repeat-find]=1 [vi-repeat-search]=1 [vi-replace]=1 [vi-replace-chars]=1 [vi-rev-repeat-find]=1 [vi-rev-repeat-search]=1 [vi-set-buffer]=1 [vi-set-mark]=1 [vi-substitute]=1 [vi-swap-case]=1 [vi-undo-change]=1 [vi-unindent]=1 [vi-up-case]=1 [vi-up-line-or-history]=1 [vi-yank]=1 [vi-yank-eol]=1 [vi-yank-whole-line]=1 [visual-line-mode]=1 [visual-mode]=1 [what-cursor-position]=1 [where-is]=1 [zle_application_mode_start]=1 [zle_application_mode_stop]=1 )
+array _ZSH_AUTOSUGGEST_BUILTIN_ACTIONS=( clear fetch suggest accept execute enable disable toggle )
+_ZSH_AUTOSUGGEST_CHILD_PID=1705291
+_ZSH_HIGHLIGHT_PRIOR_BUFFER=''
+integer _ZSH_HIGHLIGHT_PRIOR_CURSOR=0
+__GLX_VENDOR_LIBRARY_NAME=nvidia
+__GL_VRR_ALLOWED=1
+__savecursor=0
+__searching=up-line-or-beginning-search
+__starship_preserved_zle_keymap_select=''
+_cnf_action=''
+array _cnf_actions=( install info 'list files' 'list files (paged)' )
+_cnf_force_su=false
+array unique _comp_assocs=( '' )
+_comp_dumpfile=/home/bots/.zcompdump
+array _comp_options
+_comp_setup
+association _compautos
+association _comps
+association _git_third_party_commands=( [flow]=':Git Flow branching model' [pulls]='' [revise]=':update, split and rearrange commits' [wtf]='' )
+integer _history_substring_search_match_index=0
+array _history_substring_search_matches=(  )
+_history_substring_search_query=''
+_history_substring_search_query_highlight=''
+array _history_substring_search_query_parts=(  )
+integer _history_substring_search_raw_match_index=0
+array _history_substring_search_raw_matches=(  )
+_history_substring_search_refresh_display=''
+_history_substring_search_result=''
+association _history_substring_search_unique_filter=( )
+integer _history_substring_search_zsh_5_9=1
+integer _ksi_fd=13
+integer _ksi_state=1
+association _lastcomp
+association _patcomps
+association _postpatcomps
+association _services
+array _zsh_highlight__highlighter_main_cache=( '0 7 fg=yellow memo=zsh-syntax-highlighting' '8 9 fg=yellow memo=zsh-syntax-highlighting' '10 28 none memo=zsh-syntax-highlighting' )
+association _zsh_highlight_main__command_type_cache=( [declare]=reserved )
+association aliases
+array argv=(  )
+array branch_names=( main project-initialize )
+association readonly builtins
+array tied CDPATH cdpath=(  )
+array chpwd_functions=( _ksi_report_pwd )
+association commands
+array comppostfuncs=(  )
+array compprefuncs=(  )
+array dirstack
+association dis_aliases
+association readonly dis_builtins
+association dis_functions
+association readonly dis_functions_source
+association dis_galiases
+array readonly dis_patchars
+array readonly dis_reswords
+association dis_saliases
+array readonly epochtime
+array readonly errnos
+array tied FIGNORE fignore=(  )
+array tied FPATH fpath=( /usr/lib/kitty/shell-integration/zsh/completions /usr/local/share/zsh/site-functions /usr/share/zsh/site-functions /usr/share/zsh/functions/Calendar /usr/share/zsh/functions/Chpwd /usr/share/zsh/functions/Completion /usr/share/zsh/functions/Completion/Base /usr/share/zsh/functions/Completion/Linux /usr/share/zsh/functions/Completion/Unix /usr/share/zsh/functions/Completion/X /usr/share/zsh/functions/Completion/Zsh /usr/share/zsh/functions/Exceptions /usr/share/zsh/functions/MIME /usr/share/zsh/functions/Math /usr/share/zsh/functions/Misc /usr/share/zsh/functions/Newuser /usr/share/zsh/functions/Prompts /usr/share/zsh/functions/TCP /usr/share/zsh/functions/VCS_Info /usr/share/zsh/functions/VCS_Info/Backends /usr/share/zsh/functions/Zftp /usr/share/zsh/functions/Zle )
+array readonly funcfiletrace
+array readonly funcsourcetrace
+array readonly funcstack
+association functions
+association readonly functions_source
+array readonly functrace
+fzf_default_completion=expand-or-complete
+association galiases
+histchars='!^#'
+association readonly history
+array readonly historywords
+association readonly jobdirs
+association readonly jobstates
+association readonly jobtexts
+association key=( [Alt-Left]=$'\C-[[1;3D' [Alt-Right]=$'\C-[[1;3C' [Control-Left]=$'\C-[[1;5D' [Control-Right]=$'\C-[[1;5C' )
+array readonly keymaps
+array tied MAILPATH mailpath=(  )
+array tied MANPATH manpath=( '' )
+array mbegin=( 1 )
+array mend=( 13 )
+array tied MODULE_PATH module_path=( /usr/lib/zsh/5.9 )
+association readonly modules
+association nameddirs
+association options
+association readonly parameters
+array readonly patchars
+array tied PATH path=( /home/bots/anaconda3/bin /home/bots/anaconda3/condabin /home/bots/.nvm/versions/node/v20.11.1/bin /home/bots/.local/bin /usr/local/sbin /usr/local/bin /usr/bin /var/lib/flatpak/exports/bin /usr/bin/site_perl /usr/bin/vendor_perl /usr/bin/core_perl )
+array pipestatus=( 0 )
+array precmd_functions=( prompt_starship_precmd set_win_title _zsh_highlight_main__precmd_hook _zsh_autosuggest_start mcfly_prompt_command _ksi_precmd )
+array preexec_functions=( prompt_starship_preexec _zsh_highlight_preexec_hook _ksi_preexec )
+prompt='(base) $(/usr/bin/starship prompt --terminal-width="$COLUMNS" --keymap="${KEYMAP:-}" --status="$STARSHIP_CMD_STATUS" --pipestatus="${STARSHIP_PIPE_STATUS[*]}" --cmd-duration="${STARSHIP_DURATION:-}" --jobs="$STARSHIP_JOBS_COUNT")'
+array tied PSVAR psvar=(  )
+array readonly reswords
+association saliases
+array signals=( EXIT HUP INT QUIT ILL TRAP IOT BUS FPE KILL USR1 SEGV USR2 PIPE ALRM TERM STKFLT CHLD CONT STOP TSTP TTIN TTOU URG XCPU XFSZ VTALRM PROF WINCH POLL PWR SYS ZERR DEBUG )
+integer 10 readonly status=0
+association readonly sysparams
+undefined termcap
+association readonly terminfo
+association readonly userdirs
+association readonly usergroups
+undefined watch
+association readonly widgets
+array zle_bracketed_paste=( $'\C-[[?2004h' $'\C-[[?2004l' )
+array readonly tied ZSH_EVAL_CONTEXT zsh_eval_context=( toplevel )
+integer readonly zsh_highlight__memo_feature=1
+zsh_highlight__pat_static_bug=false
+undefined zsh_scheduled_events
+array zshexit_functions=( mcfly_exit_logger )
+..='cd ..'
+...='cd ../..'
+....='cd ../../..'
+.....='cd ../../../..'
+......='cd ../../../../..'
+_cnf_print='echo -e 1>&2'
+air='~/.air'
+apt='man pacman'
+apt-get='man pacman'
+big='expac -H M '\''%m\t%n'\'' | sort -h | nl'
+cat='bat --style header --style snip --style changes --style header'
+cleanup='sudo pacman -Rns $(pacman -Qtdq)'
+dir='dir --color=auto'
+edit-in-kitty='kitten edit-in-kitty'
+egrep='ugrep -E --color=auto'
+fgrep='ugrep -F --color=auto'
+fixpacman='sudo rm /var/lib/pacman/db.lck'
+gitpkg='pacman -Q | grep -i "\-git" | wc -l'
+grep='ugrep --color=auto'
+grubup='sudo update-grub'
+helpme='cht.sh --shell'
+hw='hwinfo --short'
+ip='ip -color'
+jctl='journalctl -p 3 -xb'
+l.='exa -ald --color=always --group-directories-first --icons .*'
+la='exa -a --color=always --group-directories-first --icons'
+ll='exa -l --color=always --group-directories-first --icons'
+ls='exa -al --color=always --group-directories-first --icons'
+lt='exa -aT --color=always --group-directories-first --icons'
+mirror='sudo reflector -f 30 -l 30 --number 10 --verbose --save /etc/pacman.d/mirrorlist'
+mirrora='sudo reflector --latest 50 --number 20 --sort age --save /etc/pacman.d/mirrorlist'
+mirrord='sudo reflector --latest 50 --number 20 --sort delay --save /etc/pacman.d/mirrorlist'
+mirrors='sudo reflector --latest 50 --number 20 --sort score --save /etc/pacman.d/mirrorlist'
+pacdiff='sudo -H DIFFPROG=meld pacdiff'
+please=sudo
+psmem='ps auxf | sort -nr -k 4'
+psmem10='ps auxf | sort -nr -k 4 | head -10'
+rip='expac --timefmt='\''%Y-%m-%d %T'\'' '\''%l\t%n %v'\'' | sort | tail -200 | nl'
+rmpkg='sudo pacman -Rdd'
+run-help=man
+tarnow='tar -acf '
+tb='nc termbin.com 9999'
+untar='tar -zxvf '
+upd=/usr/bin/garuda-update
+vdir='vdir --color=auto'
+wget='wget -c '
+which-command=whence
+yay=paru
